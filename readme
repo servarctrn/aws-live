@@ -1,8 +1,8 @@
-# This is the URL of the repository for this project
-git clone https://github.com/servarctrn/aws-live.git
-
 # To update your server at first launch
 sudo apt-get update
+
+# This is the URL of the repository for this project
+git clone https://github.com/servarctrn/aws-live.git
 
 # To install Sql-client on your server
 sudo apt-get install mysql-client
