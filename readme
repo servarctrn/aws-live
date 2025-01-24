@@ -1,5 +1,10 @@
+# This is the URL of the repository for this project
+git clone https://github.com/servarctrn/aws-live.git
+
+# To update your server at first launch
 sudo apt-get update
-# For Sql-client
+
+# To install Sql-client on your server
 sudo apt-get install mysql-client
 
 # For python and related frameworks
@@ -11,4 +16,4 @@ sudo apt-get install python3-boto3
 
 # for running application
 sudo python3 Empapp.py
-# this is how we upate files in vscode editor
+
